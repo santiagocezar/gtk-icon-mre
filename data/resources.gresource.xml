@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+    <gresource prefix="/io/github/santiagocezar/maniatic-launcher/icons/scalable/actions/">
+        <file compressed="true" preprocess="xml-stripblanks">one-symbolic.svg</file>
+        <file compressed="true" preprocess="xml-stripblanks">two-symbolic.svg</file>
+        <file compressed="true" preprocess="xml-stripblanks">mania-symbolic.svg</file>
+    </gresource>
+</gresources>

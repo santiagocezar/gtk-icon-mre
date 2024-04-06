@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="800"
+   height="800"
+   viewBox="0 0 800 800.00003"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="maniatic-icons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="103.63534"
+     inkscape:cy="289.7812"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     showborder="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="1"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid843"
+       originx="0"
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="context"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-322.51965)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="77"
+       y="416.51965"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="77"
+         y="416.51965">Symbolic Icons</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#cdcdcd;fill-opacity:1;stroke:#a2a2a2;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+       d="m 644.66454,463.88602 h 43.85369 c 1.86075,0 3.35875,1.498 3.35875,3.35875 v 12.10921 c 0,1.86075 -1.498,3.35876 -3.35875,3.35876 h -43.85369 c -1.86075,0 -3.35875,-1.49801 -3.35875,-3.35876 v -12.10921 c 0,-1.86075 1.498,-3.35875 3.35875,-3.35875 z"
+       id="rect837"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot819"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       transform="translate(43,352.51965)"><flowRegion
+         id="flowRegion821"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"><rect
+           id="rect823"
+           width="659"
+           height="124"
+           x="38"
+           y="91"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /></flowRegion><flowPara
+         id="flowPara825">Each Inkscape layer will become the output context. Icons are composed of a group that contains a 16x16px rectangle object. Duplicate it and enter the group with                             to edit. </flowPara><flowPara
+         id="flowPara843" /><flowPara
+         id="flowPara845">As the bounding box is set to no-stroke, no-fill you will find it useful to work in outline view mode.</flowPara></flowRoot>
+    <path
+       style="opacity:1;vector-effect:none;fill:#cdcdcd;fill-opacity:1;stroke:#a2a2a2;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+       d="m 606.36468,463.88602 h 28.6248 c 1.86075,0 3.35876,1.498 3.35876,3.35875 v 12.10921 c 0,1.86075 -1.49801,3.35876 -3.35876,3.35876 h -28.6248 c -1.86075,0 -3.35876,-1.49801 -3.35876,-3.35876 v -12.10921 c 0,-1.86075 1.49801,-3.35875 3.35876,-3.35875 z"
+       id="rect835"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       x="607.659"
+       y="478.13315"
+       id="text829"><tspan
+         sodipodi:role="line"
+         id="tspan827"
+         x="607.659"
+         y="478.13315">Ctrl</tspan></text>
+    <text
+       id="text833"
+       y="478.13315"
+       x="649.6842"
+       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="478.13315"
+         x="649.6842"
+         id="tspan831"
+         sodipodi:role="line">Enter</tspan></text>
+    <g
+       id="g849"
+       inkscape:label="sonic"
+       transform="translate(0,80)">
+      <title
+         id="title851">one</title>
+      <rect
+         y="522.51965"
+         x="82"
+         height="16"
+         width="16"
+         id="rect841"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
+      <path
+         style="fill:#754bd9;stroke-width:2.51339;paint-order:stroke fill markers"
+         d="m 91.98834,522.51964 0.01166,13 -3,3 v -9 l -1.958214,2 -0.04179,-4 z"
+         id="path2"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <flowRoot
+       transform="translate(43,907.51965)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot867"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="flowRegion863"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:Cantarell;-inkscape-font-specification:'Cantarell, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="91"
+           x="38"
+           height="124"
+           width="659"
+           id="rect861" /></flowRegion><flowPara
+         id="flowPara865">To name an icon, use <flowSpan
+   style="font-weight:bold"
+   id="flowSpan869">Object Properties</flowSpan> and set its<flowSpan
+   style="font-weight:bold"
+   id="flowSpan873"> title</flowSpan>. <flowSpan
+   style="font-weight:bold"
+   id="flowSpan871">Label</flowSpan> attribute holds space separated keywords used for search. Color of the icon doesn't matter as all of them recolor at run time.</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=800';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 800;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5c64"
+       x="81.617737"
+       y="591.08997"
+       id="text2482"><tspan
+         sodipodi:role="line"
+         id="tspan2480"
+         x="81.617737"
+         y="591.08997">Context</tspan></text>
+    <g
+       id="g1"
+       inkscape:label="sonic"
+       transform="translate(16,80)">
+      <title
+         id="title1">two</title>
+      <rect
+         y="522.51965"
+         x="82"
+         height="16"
+         width="16"
+         id="rect1"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
+      <path
+         style="fill:#754bd9;stroke-width:2.51339;paint-order:stroke fill markers"
+         d="m 86,530.51964 3,-3 2,2 -5,5 v 3 h 8 v -3 h -4 l 4,-4 v -3 l -4,-4 -4,4 z"
+         id="path3-5"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </g>
+    <g
+       id="g3"
+       inkscape:label="sonic"
+       transform="translate(32,80)">
+      <title
+         id="title2">mania</title>
+      <rect
+         y="522.51965"
+         x="82"
+         height="16"
+         width="16"
+         id="rect2"
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal" />
+      <path
+         id="path4"
+         style="fill:#754bd9;stroke-width:2.51339;paint-order:stroke fill markers"
+         d="m 91,524.51964 -8,8 v 4 l 5,-5 v 5 l 5,-5 v 5 h 3 v -8 -4 l -5,5 z"
+         sodipodi:nodetypes="cccccccccccc" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="noexport-context">
+    <g
+       inkscape:label="tags separated by space"
+       id="g859"
+       transform="translate(0,-162.51965)">
+      <title
+         id="title853">another-icon-name-that-wont-be-exported</title>
+      <rect
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+         id="rect855"
+         width="16"
+         height="16"
+         x="82"
+         y="522.51965" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;paint-order:normal"
+         id="rect857"
+         width="7.9999967"
+         height="7.9999967"
+         x="86"
+         y="526.51965"
+         rx="0"
+         ry="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:'Cantarell, @wght=800';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 800;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#5e5c64"
+       x="81.617737"
+       y="348.57031"
+       id="text2482-1"><tspan
+         sodipodi:role="line"
+         id="tspan2480-0"
+         x="81.617737"
+         y="348.57031">No Export Context</tspan></text>
+  </g>
+</svg>
